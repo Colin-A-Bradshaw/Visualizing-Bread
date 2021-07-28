@@ -1,6 +1,6 @@
 # Visualizing-Bread
 
-A five part project for a university assingment in which the data visualization pipeline is implimented.
+A five part project for a university assingment in which the data visualization pipeline is implimented, developed and best viewed in PyCharm.
 
 Data from the first 1000 recipes on allrecipes.com were scraped for data on the recipe name, the ingredients list, the rating of the recipe, and the url at which the recipe is located
 
